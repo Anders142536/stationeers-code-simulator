@@ -65,7 +65,7 @@ function onOptionSelect(instructionProps: { index: number, option: any }) {
 <style scoped lang="scss">
 .instructions-button {
 	position: fixed;
-	width: 10px;
+	width: 20px;
 	height: 200px;
 	color: #020617;
 	background: #2a54ff;
